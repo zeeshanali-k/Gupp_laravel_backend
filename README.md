@@ -1,4 +1,4 @@
-# Gup: Android Realtime chatting app backend
+# Gup: Android Realtime Chatting App Backend
 
 <a href="https://github.com/zeeshanali-k/Gup">Gup Android App Link</a>
 
