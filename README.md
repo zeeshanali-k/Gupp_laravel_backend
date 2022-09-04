@@ -7,7 +7,7 @@ Technologies:
 Laravel
 <a href="https://beyondco.de/docs/laravel-websockets/getting-started/introduction">Laravel Websockets</a> for Realtime chatting
 </p>
-## How to run
+# How to run:
 Installing Dependencies: composer install
 
 To run Laravel project use: php artisan serv --host <your-local-ip-here> 
