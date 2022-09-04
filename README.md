@@ -4,12 +4,15 @@
 
 Technologies:
 <p>
-Laravel<br>
+<ul>
+<li>MySQL</li>
+<li>Laravel</li>
 <a href="https://beyondco.de/docs/laravel-websockets/getting-started/introduction">Laravel Websockets</a> for Realtime chatting
-</p>
+</ul>
 <h2>How to run:</h2>
 Installing Dependencies: composer install
-
+<p>Run xampp (if you are on localhost): open phpmyadmin and create a database named gupp (keep it small case)<p>
+<p>Run database migrations: php artisan migrate<p>
 <p>To run Laravel project use: php artisan serv --host your-local-ip-here </p>
 e.g: php artisan serv --host 192.168.1.1
 <p>You need to start it this way so your android app can easily access otherwise you can just run: php artisan serve<p>
