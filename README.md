@@ -1,9 +1,12 @@
 # Gup: Android Realtime chatting app backend
 
+<a href="https://github.com/zeeshanali-k/Gup">Gup Android App Link</a>
+
 Technologies:
+<p>
 Laravel
 <a href="https://beyondco.de/docs/laravel-websockets/getting-started/introduction">Laravel Websockets</a> for Realtime chatting
-
+</p>
 ## How to run
 Installing Dependencies: composer install
 
