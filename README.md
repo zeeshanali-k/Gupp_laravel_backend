@@ -4,7 +4,7 @@
 
 Technologies:
 <p>
-Laravel
+Laravel<br>
 <a href="https://beyondco.de/docs/laravel-websockets/getting-started/introduction">Laravel Websockets</a> for Realtime chatting
 </p>
 <h2>How to run:</h2>
