@@ -7,7 +7,7 @@ Technologies:
 <ul>
 <li>MySQL</li>
 <li>Laravel</li>
-<a href="https://beyondco.de/docs/laravel-websockets/getting-started/introduction">Laravel Websockets</a> for Realtime chatting
+<li><a href="https://beyondco.de/docs/laravel-websockets/getting-started/introduction">Laravel Websockets</a> for Realtime Chat</li>
 </ul>
 <h2>How to run:</h2>
 Installing Dependencies: composer install
